@@ -1,0 +1,34 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Buildtree Correctly build map based on filelist 1`] = `
+Array [
+  Object {
+    "children": Array [
+      Object {
+        "children": Array [
+          Object {
+            "children": Array [],
+            "name": "broom",
+          },
+        ],
+        "name": "grannyweatherwax",
+      },
+      Object {
+        "children": Array [
+          Object {
+            "children": Array [
+              Object {
+                "children": Array [],
+                "name": "world-creation.spell",
+              },
+            ],
+            "name": "grimoires",
+          },
+        ],
+        "name": "rincewind",
+      },
+    ],
+    "name": "home",
+  },
+]
+`;

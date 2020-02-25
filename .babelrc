@@ -1,0 +1,7 @@
+{
+  "plugins": [
+    "@babel/transform-async-to-generator",
+    "@babel/proposal-class-properties",
+    "@babel/plugin-transform-modules-commonjs"
+  ]
+}

@@ -1,0 +1,21 @@
+.tree-parent {
+  display: flex;
+  flex-direction: row;
+}
+
+.tree-label {
+  display: flex;
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  border: 1px solid white;
+  min-height: 35px;
+}
+
+.tree-label:hover {
+  background-color: #008000c2;
+}
+
+.tree-label > p {
+  margin: auto;
+}

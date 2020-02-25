@@ -1,4 +1,3 @@
-//const BuildTree = require('../src/BuildTree');
 import BuildTree from '../src/BuildTree';
 
 describe('Buildtree', () => {
